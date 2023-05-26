@@ -15,10 +15,7 @@ main ()
     
     printf("Bem vindo a partida de pedra, papel e tesoura.");
     printf("\nDispute com o computador, DIVIRTA-SE!!!!");
-    
-    
-    
-    
+   
     while (placarJogador < 3 && placarComputador < 3) {
    
         printf("\nDigite: \n0 = PEDRA.\n1 = PAPEL.\n2 = TESOURA.\n");
